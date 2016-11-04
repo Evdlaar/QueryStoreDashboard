@@ -1,0 +1,11 @@
+11-04-2016 V1.1
+---------------
+
+Bugfixes:
+- Query Store gauge always reported the same value instead of the currently used Query Store size.
+- Changed x-axis on graphs to a smaller date/time interval value.
+
+11-02-2016 V1.0 
+---------------
+
+- Initial release
