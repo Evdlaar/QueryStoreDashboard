@@ -1,3 +1,10 @@
+11-06-2016 V1.2
+---------------
+
+Bugfixes:
+- An error regarding the "Pacific" colour palette can occur when you load the report.
+  We changes the graphs inside the Query Store Dashboard to a different colour palette to avoid this error.
+
 11-04-2016 V1.1
 ---------------
 
