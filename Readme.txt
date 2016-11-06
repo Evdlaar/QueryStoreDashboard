@@ -5,5 +5,5 @@ The Query Store Dashboard provides additional query performance information on d
 You can download the .rdl files by right-clicking them and select the option "Save target as".
 Installation and usage information can be found on the Wiki.
 
-The dashboard requires Microsoft SQL Server 2016 and Microsoft SQL Server Management Studio 2016 16.5 to work.
+The dashboard requires Microsoft SQL Server 2016 and Microsoft SQL Server Management Studio 2016 to work.
 
