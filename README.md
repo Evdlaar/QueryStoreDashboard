@@ -9,7 +9,7 @@
 [forks badge]:https://img.shields.io/github/forks/Evdlaar/QueryStoreDashboard.svg
 [issues badge]:https://img.shields.io/github/issues/Evdlaar/QueryStoreDashboard.svg
 
-[licence]:https://github.com/ktaranov/sqlserver-kit/blob/master/LICENSE.md
+[licence]:https://github.com/Evdlaar/QueryStoreDashboard/blob/master/LICENSE.md
 [stars]:https://github.com/Evdlaar/QueryStoreDashboard/stargazers
 [forks]:https://github.com/Evdlaar/QueryStoreDashboard/network
 [issues]:https://github.com/Evdlaar/QueryStoreDashboard/issues
