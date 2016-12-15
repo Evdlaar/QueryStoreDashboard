@@ -23,6 +23,27 @@ Installation and usage information can be found on the Wiki.
 
 The dashboard requires Microsoft SQL Server 2016 and Microsoft SQL Server Management Studio 2016 to work.
 
+## Release notes
+
+### Query Store Database Dashboard v1.3
+
+
+- Forced execution plan overview removed
+  Instead you should use sp_WhatsupQueryStore to quickly analyse forced plans by running
+  EXEC sp_WhatsupQueryStore @dbname = 'your database', @return_forced_plans = 1.
+
+  You can download sp_WhatsupQueryStore through GitHub at https://github.com/Evdlaar/sp_WhatsupQueryStore.
+
+- Added Queries with multiple plans performance chart.
+  This chart, unlike the other ones, uses a logarithmic scale to improve readability when query duration between plans have large difference between durations.
+
+- Removed unused datasets.
+
+- Changed date/time format on x-axis in charts to exclude the date and only show time.
+
+- Modified queries to avoid potential locking situations.
+
+
 The Query Store Dashboards are developed and maintained by Enrico van de Laar (@evdlaar).
 
 
