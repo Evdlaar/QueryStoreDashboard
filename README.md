@@ -19,7 +19,7 @@ The Query Store Dashboards provides additional query performance information on 
 You can download the **.rdl** files by selecting the **.zip** file and select the option "Download".
 Alternatively you can select the “Release” button and download the “QueryStoreDashboards” .zip file that contains all the Query Store Dashboards.
 
-Installation and usage information can be found on the Wiki.
+Installation and usage information can be found on the Wikipedia.
 
 The dashboard requires Microsoft SQL Server 2016 and Microsoft SQL Server Management Studio 2016 to work.
 
